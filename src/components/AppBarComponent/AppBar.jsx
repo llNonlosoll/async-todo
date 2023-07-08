@@ -1,5 +1,6 @@
 import { StatusFilter } from 'components/StatusFilterComponent/StatusFilter';
 import { TaskCounter } from 'components/TaskCounterComponent/TaskCounter';
+
 import css from './AppBar.module.css';
 
 export const AppBar = () => {
